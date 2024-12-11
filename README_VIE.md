@@ -32,3 +32,16 @@ Bước này quá cơ bản rồi nên không cần phải thắc mắc nha các
 - Ảnh nền: Tải ảnh `scbg_fhd+.png` về rồi cài ảnh nền, quá đơn giản.
 - Ảnh nền động: Tải video `animation_default.mp4` về rồi dùng app [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) của [Cyunrei](https://github.com/cyunrei) để cài ảnh nền động nha, đối với Samsung thì có thể trực tiếp cài video làm ảnh nền động mà không cần app khác, nhưng chỉ cài được màn hình khoá.
 Chúc các bạn vọc vui vẻ 😉
+
+# Giải thích một số cài đặt trong app 🛠
+
+- Charging Guardian: Bật hoạt ảnh sạc, chắc chắn phải mở rồi.
+- Set as foreground service: Bật thì nó đặt app thành chạy trực tiếp, giúp nó không bị hệ thống tắt (do phát hiện chạy ngầm). Có cái bất tiện là lúc nào nó cũng hiện cái thông báo.
+- Screen-on animation: Nếu tắt cái này thì hoạt ảnh sạc chỉ chạy đúng 1 lần cắm sạc, sau này không hiện nữa.
+- Always on display: Bật cái này thì nếu không chủ động tắt màn hình, thì nó sẽ sáng hoài không tắt.
+- Unlock Style: Kiểu mở khoá, bật thì lúc mở khoá nó sẽ tắt hoạt ảnh trước khi mở màn hình nhập mật khẩu. Còn tắt thì nó sẽ giữ nguyên, nhập mật khẩu xong mở khoá nó mới tắt.
+- Do not disturb: Bật lên thì nó sẽ không hiện hoạt ảnh sạc nếu đang sài ứng dụng full màn (chơi game).
+- Auto start: Tự khởi động khi mở nguồn điện thoại.
+- Charging Guardian voice: Bật âm thanh sạc, có 5 trạng thái âm thanh. Chi tiết tự nghiên cứu trong nút chấm hỏi nha.
+- Audio list: Danh sách các file âm thanh đã import, có thể tự chỉnh từng âm cho các trạng thái sạc khác nhau.
+- Hide from recent apps: Ẩn app khỏi menu đa nhiệm.
