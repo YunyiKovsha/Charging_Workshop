@@ -1,6 +1,6 @@
 # ⚡ Charging Workshop - Bring Shark Chan charging animations to your Android, and lots of charging sounds 🦈🦈🦈
 
-**Xem hướng dẫn tiếng Việt [tại đây]().**
+**Xem hướng dẫn tiếng Việt [tại đây](https://github.com/YunyiKovsha/Charging_Workshop/blob/master/README_VIE.md).**
 
 I recommend you read all of the information below first. But just in case, here is the download link:
 
@@ -57,8 +57,6 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 
 - Shark Chan wallpaper: Simply download `scbg_fhd+.png` and set it.
 - Shark Chan live wallpaper: Download `animation_default.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
-
-# 🕹️ Usage
 
 # 🛠️ Modify & Build For Yourself
 
