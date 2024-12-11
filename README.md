@@ -58,4 +58,15 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 - Shark Chan wallpaper: Simply download `scbg_fhd+.png` and set it.
 - Shark Chan live wallpaper: Download `animation_default.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
 
-# 
+# 🕹️ Usage
+
+# 🛠️ Modify & Build For Yourself
+
+If you want to build this project yourself, I recommend using the following settings:
+- `Gradle 7.2` and `Android Gradle Plugin 7.1.1`.
+- `JDK 11` or `JDK 8` but you can try `JDK 17`.
+- And you should test/debug on `Android 8.0 "Oreo" - API 26` or above.
+
+# 📄 License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to modify, distribute, and use the code, but it must remain under the same license. Any derivative work must also be licensed under GPL-3.0, and you must provide a copy of this license with any redistribution. For more details, please refer to the [LICENSE](https://github.com/YunyiKovsha/Charging_Workshop/blob/master/LICENSE) file.
