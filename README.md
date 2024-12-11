@@ -41,7 +41,7 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 ## 👉 Step 3. Set-up resource files [IMPORTANT]
 
 - The ultimate goal of this step is to place the resource files in the application's directory.
-- In the `resources.zip` file you just downloaded, you can see 2 folders: `audio` and `video`
+- In the `resources.zip` file you just downloaded, you can see 2 folders: `audio` and `video`.
 - Use a file manager app that can access system directories, such as [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver), to extract two folders above to the following path:
   `/storage/emulated/0/Android/data/com.su.charging/files/res/`
 - The folder structure after completion is as follows:
@@ -52,3 +52,10 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
       └── video/
   ```
 - Once you've confirmed, open the app and enjoy!
+
+## 👉 Step 4. Other things you can tinker with!
+
+- Shark Chan wallpaper: Simply download `scbg_fhd+.png` and set it.
+- Shark Chan live wallpaper: Download `animation_default.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
+
+# 
