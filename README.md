@@ -6,7 +6,7 @@ I recommend you read all of the information below first. But just in case, here 
 
 [![Downloads](https://img.shields.io/github/downloads/YunyiKovsha/Charging_Workshop/total)](https://github.com/YunyiKovsha/Charging_Workshop/releases/)
 
-Simply use the `.apk` file, or download the source code to explore and modify it yourself. Build information is provided below.  
+Simply use the `.apk` file, or download the source code to explore and modify it yourself. Build information is provided [below](https://github.com/YunyiKovsha/Charging_Workshop#%EF%B8%8F-modify--build-for-yourself).  
 **Use at your own risk, good luck!**
 
 # 📌 Information
