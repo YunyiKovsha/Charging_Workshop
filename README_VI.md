@@ -5,7 +5,7 @@
 Vào trang [tải xuống](https://github.com/YunyiKovsha/Charging_Workshop/releases) và tải các file sau:
 - `Charging_Workshop_2.5.apk`
 - `resources.zip`
-- `scbg_fhd+.png` (Đây là ảnh nền, không bắt buộc)
+- `scwp_fhd+.png` (Đây là ảnh nền, không bắt buộc)
 - `sclivewp_fhd+.mp4` (Đây là ảnh nền động, không bắt buộc)
 
 ## Bước 2. Cài file `.apk` 📲
@@ -34,7 +34,7 @@ Bước này quá cơ bản rồi nên không cần phải thắc mắc nhỉ �
 
 # Vọc vạch thêm 🎉
 
-- Ảnh nền: Tải ảnh `scbg_fhd+.png`, sau đó cài ảnh nền, quá đơn giản.
+- Ảnh nền: Tải ảnh `scwp_fhd+.png`, sau đó cài ảnh nền, quá đơn giản.
 - Ảnh nền động: Tải video `sclivewp_fhd+.mp4`, sau đó dùng app [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) của [Cyunrei](https://github.com/cyunrei) để cài, đối với Samsung thì có thể trực tiếp cài video làm ảnh nền mà không cần app khác, nhưng chỉ cài được màn hình khoá.  
 **Chúc các bạn vọc vui vẻ 😉**
 
