@@ -1,4 +1,4 @@
-# ⚡ Charging Workshop - Bring Shark Chan charging animations to your Android, and lots of charging sounds 🦈🦈🦈
+# ⚡ Charging Workshop - Bring Shark Chan charging animation to your Android, custom charging sounds and more! 🦈🦈🦈
 
 **Xem hướng dẫn tiếng Việt [tại đây](https://github.com/YunyiKovsha/Charging_Workshop/blob/master/README_VIE.md).**
 
@@ -53,10 +53,16 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
   ```
 - Once you've confirmed, open the app and enjoy!
 
-## 👉 Step 4. Other things you can tinker with!
+# 🎨 Freely Customization
+
+- Aside from the Shark Chan animation and sounds, the customization is up to you!
+- You can change the charging animation to anything you want, just make sure you rename your videos correctly to `normal_charging.mp4` and `quick_charging.mp4`, and put them into: `/files/res/video`
+- For the sounds, you don't need to rename them, just put them in the correct folder: `/files/res/audio`
+
+# 🧩 Other Things You Can Tinker With!
 
 - Shark Chan wallpaper: Simply download `scbg_fhd+.png` and set it.
-- Shark Chan live wallpaper: Download `animation_default.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
+- Shark Chan live wallpaper: Download `sclivewp_fhd+.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
 
 # 🛠️ Modify & Build For Yourself
 
