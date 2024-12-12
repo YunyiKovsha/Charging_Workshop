@@ -27,16 +27,16 @@ Bước này quá cơ bản rồi nên không cần phải thắc mắc nhỉ �
   ```
   - Khi kiểm tra lại chính xác như vậy, thì đã xong, hãy vào app và tận hưởng!
 
-# Vọc vạch các thứ 🎉
-
-- Ảnh nền: Tải ảnh `scbg_fhd+.png`, sau đó cài ảnh nền, quá đơn giản.
-- Ảnh nền động: Tải video `sclivewp_fhd+.mp4`, sau đó dùng app [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) của [Cyunrei](https://github.com/cyunrei) để cài, đối với Samsung thì có thể trực tiếp cài video làm ảnh nền mà không cần app khác, nhưng chỉ cài được màn hình khoá.
-Chúc các bạn vọc vui vẻ 😉
-
 # Tuỳ chỉnh hoạt ảnh & âm thanh 🪄
 
 - Ngoài hoạt ảnh của Shark Chan, có thể tự tuỳ chỉnh thành bất cứ video nào miễn là đổi tên video chính xác thành `normal_charging.mp4` và `quick_charging.mp4`, sau đó chuyển vào thư mục: `/files/res/video`
 - Đối với âm thanh, không cần phải đổi tên, chỉ cần chuyển vào thư mục: `/files/res/audio`
+
+# Vọc vạch thêm 🎉
+
+- Ảnh nền: Tải ảnh `scbg_fhd+.png`, sau đó cài ảnh nền, quá đơn giản.
+- Ảnh nền động: Tải video `sclivewp_fhd+.mp4`, sau đó dùng app [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) của [Cyunrei](https://github.com/cyunrei) để cài, đối với Samsung thì có thể trực tiếp cài video làm ảnh nền mà không cần app khác, nhưng chỉ cài được màn hình khoá.  
+**Chúc các bạn vọc vui vẻ 😉**
 
 # Giải thích một số cài đặt 🛠
 
