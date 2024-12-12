@@ -31,8 +31,8 @@ This project is a fork of [ChargingWorkshop](https://github.com/RyensX/ChargingW
 Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) page and download these files:
 - `Charging_Workshop_2.5.apk`
 - `resources.zip`
-- `scbg_fhd+.png` (Optional, this is Shark Chan wallpaper)
-- `animation_default.mp4` (Optional, this is Shark Chan live wallpaper)
+- `scwp_fhd+.png` (Optional, this is Shark Chan wallpaper)
+- `sclivewp_fhd+.mp4` (Optional, this is Shark Chan live wallpaper)
 
 ## 👉 Step 2. Install `.apk` file
 
@@ -61,7 +61,7 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 
 # 🧩 Other Things You Can Tinker With!
 
-- Shark Chan wallpaper: Simply download `scbg_fhd+.png` and set it.
+- Shark Chan wallpaper: Simply download `scwp_fhd+.png` and set it.
 - Shark Chan live wallpaper: Download `sclivewp_fhd+.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
 
 # 🛠️ Modify & Build For Yourself
