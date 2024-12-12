@@ -1,47 +1,52 @@
-# ⚙️ Hướng dẫn tải và cài đặt 🔧
+# ⚙️ Hướng dẫn tải về và cài đặt 🔧
 
 ## Bước 1. Tải các file cần thiết 📦
 
 Vào trang [tải xuống](https://github.com/YunyiKovsha/Charging_Workshop/releases) và tải các file sau:
 - `Charging_Workshop_2.5.apk`
 - `resources.zip`
-- `scbg_fhd+.png` (Đây là ảnh nền, không bắt buộc tải)
-- `animation_default.mp4` (Đây là ảnh nền động, không bắt buộc tải)
+- `scbg_fhd+.png` (Đây là ảnh nền, không bắt buộc)
+- `sclivewp_fhd+.mp4` (Đây là ảnh nền động, không bắt buộc)
 
 ## Bước 2. Cài file `.apk` 📲
 
-Bước này quá cơ bản rồi nên không cần phải thắc mắc nha các bạn.
+Bước này quá cơ bản rồi nên không cần phải thắc mắc nhỉ 😉
 
 ## Bước 3. Chép file tài nguyên 🗂️ [QUAN TRỌNG❗] 
 
-- Mục đích cuối của bước này đó là chép file tài nguyên (hoạt ảnh và âm thanh) vào thư mục của app.
-- Trong file `resources.zip` các bạn đã tải có 2 thư mục `audio` với `video`.
-- Các bạn dùng app quản lý file nào truy cập được mấy thư mục hệ thống ấy, như là [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver), rồi giải nén 2 thư mục trên vô đường dẫn này:
+- Mục đích cuối của bước này là đưa các file tài nguyên (hoạt ảnh và âm thanh) vào thư mục của app.
+- Trong file `resources.zip` đã tải có 2 thư mục `audio` và `video`.
+- Hãy dùng những app quản lý file nào truy cập được vào thư mục hệ thống, chẳng hạn [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver), sau đó giải nén 2 thư mục trên vào đường dẫn dưới đây:
   `/storage/emulated/0/Android/data/com.su.charging/files/res/`
-- Các bạn làm xong thư mục nó sẽ có cấu trúc như vầy:
+- Sau khi giải nén, cây thư mục phải có cấu trúc như sau:
   ```
   files/
   └── res/
       ├── audio/
       └── video/
   ```
-  - Khi mà thấy chính xác như vậy thì đã xong, các bạn vào app dùng nha.
+  - Khi kiểm tra lại chính xác như vậy, thì đã xong, hãy vào app và tận hưởng!
 
-## Bước 4. Phụ thôi, các bạn có thể cài thêm ảnh nền, ảnh nền động 🎉
+# Vọc vạch các thứ 🎉
 
-- Ảnh nền: Tải ảnh `scbg_fhd+.png` về rồi cài ảnh nền, quá đơn giản.
-- Ảnh nền động: Tải video `animation_default.mp4` về rồi dùng app [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) của [Cyunrei](https://github.com/cyunrei) để cài ảnh nền động nha, đối với Samsung thì có thể trực tiếp cài video làm ảnh nền động mà không cần app khác, nhưng chỉ cài được màn hình khoá.
+- Ảnh nền: Tải ảnh `scbg_fhd+.png`, sau đó cài ảnh nền, quá đơn giản.
+- Ảnh nền động: Tải video `sclivewp_fhd+.mp4`, sau đó dùng app [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) của [Cyunrei](https://github.com/cyunrei) để cài, đối với Samsung thì có thể trực tiếp cài video làm ảnh nền mà không cần app khác, nhưng chỉ cài được màn hình khoá.
 Chúc các bạn vọc vui vẻ 😉
 
-# Giải thích một số cài đặt trong app 🛠
+# Tuỳ chỉnh hoạt ảnh & âm thanh 🪄
 
-- Charging Guardian: Bật hoạt ảnh sạc, chắc chắn phải mở rồi.
-- Set as foreground service: Bật thì nó đặt app thành chạy trực tiếp, giúp nó không bị hệ thống tắt (do phát hiện chạy ngầm). Có cái bất tiện là lúc nào nó cũng hiện cái thông báo.
-- Screen-on animation: Nếu tắt cái này thì hoạt ảnh sạc chỉ chạy đúng 1 lần cắm sạc, sau này không hiện nữa.
-- Always on display: Bật cái này thì nếu không chủ động tắt màn hình, thì nó sẽ sáng hoài không tắt.
-- Unlock Style: Kiểu mở khoá, bật thì lúc mở khoá nó sẽ tắt hoạt ảnh trước khi mở màn hình nhập mật khẩu. Còn tắt thì nó sẽ giữ nguyên, nhập mật khẩu xong mở khoá nó mới tắt.
-- Do not disturb: Bật lên thì nó sẽ không hiện hoạt ảnh sạc nếu đang sài ứng dụng full màn (chơi game).
+- Ngoài hoạt ảnh của Shark Chan, có thể tự tuỳ chỉnh thành bất cứ video nào miễn là đổi tên video chính xác thành `normal_charging.mp4` và `quick_charging.mp4`, sau đó chuyển vào thư mục: `/files/res/video`
+- Đối với âm thanh, không cần phải đổi tên, chỉ cần chuyển vào thư mục: `/files/res/audio`
+
+# Giải thích một số cài đặt 🛠
+
+- Charging Guardian: Hoạt ảnh sạc, chắc chắn phải bật.
+- Set as foreground service: Bật sẽ giúp app tránh bị hệ thống tắt đi. Nhược điểm là sẽ có 1 thông báo luôn hiện.
+- Screen-on animation: Khi bật, hoạt ảnh sạc sẽ hiện mỗi lần mở sáng màn hình (trong khi sạc); khi tắt, hoạt ảnh chỉ hiện 1 lần duy nhất lúc cắm sạc.
+- Always on display: Khi bật, màn hình sẽ luôn giữ trạng thái sáng (trong khi sạc) nếu không chủ động tắt màn hình.
+- Unlock Style: Khi bật, hoạt ảnh sẽ tắt trước khi mở màn hình nhập mật khẩu; khi tắt, hoạt ảnh sẽ giữ nguyên, và chỉ tắt sau khi mở khoá thành công.
+- Do not disturb: Khi bật, hoạt ảnh sạc sẽ không hiện nếu cắm sạc khi đang dùng ứng dụng toàn màn hình (vd: game).
 - Auto start: Tự khởi động khi mở nguồn điện thoại.
-- Charging Guardian voice: Bật âm thanh sạc, có 5 trạng thái âm thanh. Chi tiết tự nghiên cứu trong nút chấm hỏi nha.
+- Charging Guardian voice: Âm thanh sạc, có 5 trạng thái âm thanh. Chi tiết được ghi trong nút `❔`
 - Audio list: Danh sách các file âm thanh đã import, có thể tự chỉnh từng âm cho các trạng thái sạc khác nhau.
 - Hide from recent apps: Ẩn app khỏi menu đa nhiệm.
