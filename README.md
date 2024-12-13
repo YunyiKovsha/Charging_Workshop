@@ -1,6 +1,6 @@
 # ⚡ Charging Workshop - Bring Shark Chan charging animation to your Android, custom charging sounds and more! 🦈🦈🦈
 
-**Xem hướng dẫn tiếng Việt [tại đây](https://github.com/YunyiKovsha/Charging_Workshop/blob/master/README_VIE.md).**
+**Xem hướng dẫn tiếng Việt [tại đây](https://github.com/YunyiKovsha/Charging_Workshop/blob/master/README_VI.md).**
 
 I recommend you read all of the information below first. But just in case, here is the download link:
 
