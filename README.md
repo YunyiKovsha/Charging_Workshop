@@ -57,6 +57,8 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 
 - Aside from the Shark Chan animation and sounds, the customization is up to you!
 - You can change the charging animation to anything you want, just make sure you rename your videos correctly to `normal_charging.mp4` and `quick_charging.mp4`, and put them into: `/files/res/video`
+- Note that `normal_charging.mp4` and `quick_charging.mp4` do not indicate fast charging; instead, they refer to the animations for ≤ 20% and > 20% battery levels, respectively.
+- I have no idea why the original author named them that, but I’ll leave them as they are.
 - For the sounds, you don't need to rename them, just put them in the correct folder: `/files/res/audio`
 
 # 🧩 Other Things You Can Tinker With!
