@@ -30,6 +30,8 @@ Bước này quá cơ bản rồi nên không cần phải thắc mắc nhỉ �
 # Tuỳ chỉnh hoạt ảnh & âm thanh 🪄
 
 - Ngoài hoạt ảnh của Shark Chan, có thể tự tuỳ chỉnh thành bất cứ video nào miễn là đổi tên video chính xác thành `normal_charging.mp4` và `quick_charging.mp4`, sau đó chuyển vào thư mục: `/files/res/video`
+- Lưu ý rằng `normal_charging.mp4` và `quick_charging.mp4` không đề cập đến việc sạc nhanh hay chậm; thay vào đó, nó là 2 hoạt ảnh sạc khi thiết bị ≤ 20% và > 20% pin.
+- Không biết vì sao tác giả gốc lại dặt tên như vậy, nhưng hãy cứ để yên nó như thế 😉
 - Đối với âm thanh, không cần phải đổi tên, chỉ cần chuyển vào thư mục: `/files/res/audio`
 
 # Vọc vạch thêm 🎉
