@@ -52,3 +52,7 @@ Bước này quá cơ bản rồi nên không cần phải thắc mắc nhỉ �
 - Charging Guardian voice: Âm thanh sạc, có 5 trạng thái âm thanh. Chi tiết được ghi trong nút `❔`
 - Audio list: Danh sách các file âm thanh đã import, có thể tự chỉnh từng âm cho các trạng thái sạc khác nhau.
 - Hide from recent apps: Ẩn app khỏi menu đa nhiệm.
+
+# Preview 🖼️
+
+![screenshot](https://github.com/user-attachments/assets/2c498779-34db-4aad-a275-c6043e5ab940)
