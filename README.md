@@ -66,6 +66,10 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 - Shark Chan wallpaper: Simply download `scwp_fhd+.png` and set it.
 - Shark Chan live wallpaper: Download `sclivewp_fhd+.mp4` and use with [Video Live Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) made by [Cyunrei](https://github.com/cyunrei).
 
+# 🖼️ Screenshots
+
+
+
 # 🛠️ Modify & Build For Yourself
 
 If you want to build this project yourself, I recommend using the following settings:
