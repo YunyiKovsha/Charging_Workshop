@@ -68,7 +68,7 @@ Go to [releases](https://github.com/YunyiKovsha/Charging_Workshop/releases/) pag
 
 # 🖼️ Screenshots
 
-
+![screenshot](https://github.com/user-attachments/assets/2c498779-34db-4aad-a275-c6043e5ab940)
 
 # 🛠️ Modify & Build For Yourself
 
